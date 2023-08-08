@@ -1,0 +1,12 @@
+D:\Dotnet\p1api\Demo.Domain\bin\Debug\net6.0\Demo.Domain.deps.json
+D:\Dotnet\p1api\Demo.Domain\bin\Debug\net6.0\Demo.Domain.dll
+D:\Dotnet\p1api\Demo.Domain\bin\Debug\net6.0\Demo.Domain.pdb
+D:\Dotnet\p1api\Demo.Domain\obj\Debug\net6.0\Demo.Domain.csproj.AssemblyReference.cache
+D:\Dotnet\p1api\Demo.Domain\obj\Debug\net6.0\Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\p1api\Demo.Domain\obj\Debug\net6.0\Demo.Domain.AssemblyInfoInputs.cache
+D:\Dotnet\p1api\Demo.Domain\obj\Debug\net6.0\Demo.Domain.AssemblyInfo.cs
+D:\Dotnet\p1api\Demo.Domain\obj\Debug\net6.0\Demo.Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet\p1api\Demo.Domain\obj\Debug\net6.0\Demo.Domain.dll
+D:\Dotnet\p1api\Demo.Domain\obj\Debug\net6.0\refint\Demo.Domain.dll
+D:\Dotnet\p1api\Demo.Domain\obj\Debug\net6.0\Demo.Domain.pdb
+D:\Dotnet\p1api\Demo.Domain\obj\Debug\net6.0\ref\Demo.Domain.dll

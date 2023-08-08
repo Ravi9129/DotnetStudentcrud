@@ -1,0 +1,17 @@
+D:\Dotnet\p1api\Demo.Data\bin\Debug\net6.0\Demo.Data.deps.json
+D:\Dotnet\p1api\Demo.Data\bin\Debug\net6.0\Demo.Data.runtimeconfig.json
+D:\Dotnet\p1api\Demo.Data\bin\Debug\net6.0\Demo.Data.dll
+D:\Dotnet\p1api\Demo.Data\bin\Debug\net6.0\Demo.Data.pdb
+D:\Dotnet\p1api\Demo.Data\bin\Debug\net6.0\Demo.Domain.dll
+D:\Dotnet\p1api\Demo.Data\bin\Debug\net6.0\Demo.Domain.pdb
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\Demo.Data.csproj.AssemblyReference.cache
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\Demo.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\Demo.Data.AssemblyInfoInputs.cache
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\Demo.Data.AssemblyInfo.cs
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\Demo.Data.csproj.CoreCompileInputs.cache
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\Demo.Data.csproj.CopyComplete
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\Demo.Data.dll
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\refint\Demo.Data.dll
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\Demo.Data.pdb
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\Demo.Data.genruntimeconfig.cache
+D:\Dotnet\p1api\Demo.Data\obj\Debug\net6.0\ref\Demo.Data.dll
